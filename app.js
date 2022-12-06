@@ -3,8 +3,12 @@ const MongoClient = require('mongodb').MongoClient;
 const cors = require('cors');
 require('dotenv/config');
 
+const path = require('path');
+
 const app = express();
 app.use(cors());
+
+app.use(express.static(path.join(__dirname, '/public')));
 
 app.use(express.json());
 var database;
@@ -23,7 +27,7 @@ app.get('/api/books', (req, res) => {
     });
 });
 
-app.listen(8080, () => {
+app.listen(process.env.PORT || 8080, () => {
   MongoClient.connect(
     process.env.DB_CONNECTION,
     { useNewUrlParser: true },

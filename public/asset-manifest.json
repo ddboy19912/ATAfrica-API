@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.93560e95.css",
+    "main.js": "/static/js/main.1a35e24b.js",
+    "static/media/IMG1.png": "/static/media/IMG1.29fd6f86dd5da05f737b.png",
+    "static/media/moving-truck-support.contenthash.93e51de4.webp": "/static/media/moving-truck-support.contenthash.e7e171fdaba10ec2c699c62409cf93ba93e51de4.7f9556b28374e5648f00.webp",
+    "static/media/blank-profile-picture-973460_1280.png": "/static/media/blank-profile-picture-973460_1280.c3f945216dc12c9498dc.png",
+    "static/media/nerdwallet.contenthash.418430e2.svg": "/static/media/nerdwallet.contenthash.91486057718363f6a3d741326df4b30d418430e2.4dd9d60c87634df1ee5ac88db3aa2921.svg",
+    "static/media/wordmark-surface-dark.contenthash.a9c7619e.svg": "/static/media/wordmark-surface-dark.contenthash.0eff70a79bddf191f2be3b9c62051ae9a9c7619e.6bac23b292681a87627062e4055f2746.svg",
+    "static/media/investopedia.contenthash.5e96c5c2.svg": "/static/media/investopedia.contenthash.cf25078cb7ce013008895c9476ff5a105e96c5c2.31b93769a00e0c24b289d977edfe2001.svg",
+    "static/media/Logo.svg": "/static/media/Logo.833ab64c8ba6fa94a9b491fdee0bf822.svg",
+    "index.html": "/index.html",
+    "main.93560e95.css.map": "/static/css/main.93560e95.css.map",
+    "main.1a35e24b.js.map": "/static/js/main.1a35e24b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93560e95.css",
+    "static/js/main.1a35e24b.js"
+  ]
+}
